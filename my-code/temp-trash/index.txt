@@ -1,0 +1,11 @@
+Name, Image Url, Universal-ID
+Academy Elite, http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382835&type=card, 382835
+Addle, http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382836&type=card, 382836
+Aether Mutation, http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382837&type=card, 382837
+Afterlife, http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382838&type=card, 382838
+Aftershock, http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382839&type=card, 382839
+Akroma's Blessing, http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382840&type=card, 382840
+Ancestral Recall, http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382841&type=card, 382841
+Ancient Tomb, http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382842&type=card, 382842
+Animate Dead, http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382843&type=card, 382843
+Ankh of Mishra, http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382844&type=card, 382844
