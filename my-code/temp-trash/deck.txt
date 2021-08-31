@@ -1,7 +1,55 @@
 Deck
-4 Ancient Tomb (RIX) 101
-4 Bitch Face (GRN) 115
-3 Cunt Balls (IKO) 206
-2 Dick Head (TBH) 206
-1 Animate Dead (IKO) 220
-4 Fuck (M20) 248
+4 Claim the Firstborn (STA) 37
+4 Village Rites (M21) 126
+4 Hijack (KLR) 128
+3 Shackles of Treachery (KHM) 150
+1 Mascot Interception (STX) 110
+17 Swamp (AFR) 273
+19 Mountain (AFR) 277
+4 Deadly Dispute (AFR) 94
+1 Piper of the Swarm (ELD) 100
+1 Temple of Malice (THB) 247
+1 Woe Strider (THB) 123
+4 Bloodfell Caves (M21) 243
+1 Sorcerer's Broom (ELD) 232
+1 Act of Treason (JMP) 289
+1 Elite Headhunter (ELD) 209
+4 Price of Loyalty (AFR) 159
+4 Trove of Temptation (XLN) 171
+1 Nightmare Shepherd (THB) 108
+2 You Find Some Prisoners (AFR) 169
+3 Zariel, Archduke of Avernus (AFR) 172
+1 Severed Strands (GRN) 85
+1 Fling (ELD) 126
+4 Kaya's Ghostform (WAR) 94
+4 Mayhem Devil (WAR) 204
+4 Evolving Wilds (M20) 246
+1 Witch's Cauldron (M21) 129
+1 Spark Harvest (WAR) 105
+3 Kari Zev's Expertise (KLR) 134
+1 Treasure Vault (AFR) 261
+1 Acererak the Archlich (AFR) 87
+1 Underworld Breach (THB) 161
+3 Costly Plunder (XLN) 96
+1 Bone Splinters (M20) 92
+1 Kroxa, Titan of Death's Hunger (THB) 221
+1 Weaponize the Monsters (IKO) 140
+1 Bushmeat Poacher (IKO) 77
+2 Tentative Connection (IKO) 138
+2 Rakdos Locket (RNA) 237
+2 Shadowspear (THB) 236
+4 Mutual Destruction (IKO) 96
+1 Hive of the Eye Tyrant (AFR) 258
+1 Den of the Bugbear (AFR) 254
+1 Renegade Map (KLR) 265
+2 Witch's Oven (ELD) 237
+3 Skullport Merchant (AFR) 120
+1 Goldspan Dragon (KHM) 139
+1 Immersturm Predator (KHM) 214
+2 Ruinous Gremlin (KLR) 142
+1 Implement of Malice (KLR) 245
+2 Pillardrop Warden (STX) 112
+2 Sanitarium Skeleton (ANB) 57
+4 Sulfurous Mire (KHM) 270
+2 Sepulcher Ghoul (AFR) 118
+1 Brackish Trudge (STX) 65

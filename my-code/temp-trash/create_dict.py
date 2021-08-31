@@ -9,8 +9,13 @@ def _dict():
 
     for line in _file:
         _list = line.split(',')
-        card_dict = { 'name' :_list[0], 'image_url' : _list[1] }
-        index.append(card_dict)
+
+        try:
+            card_dict = { 'name' :_list[0], 'image_url' : _list[1] }
+            index.append(card_dict)
+
+        except:
+            pass
 
     return index
 
